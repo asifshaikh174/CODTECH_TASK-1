@@ -16,7 +16,7 @@
 
 This project involves performing Exploratory Data Analysis (EDA) on the Haberman's Survival Dataset. The dataset contains information about patients who underwent breast cancer surgery and aims to understand the factors that may influence their survival rates. By analyzing the relationships between various features and survival status, we aim to extract meaningful insights that could guide further analysis or model development.
 
-**Objective :** 
+**Project Objective :** 
 
 **1. Data Understanding :**
 
