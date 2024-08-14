@@ -14,11 +14,40 @@
 
 **Overview of the project :** 
 
-Exploratory Data Analysis (EDA) on Haberman's Survival Dataset
+This project involves performing Exploratory Data Analysis (EDA) on the Haberman's Survival Dataset. The dataset contains information about patients who underwent breast cancer surgery and aims to understand the factors that may influence their survival rates. By analyzing the relationships between various features and survival status, we aim to extract meaningful insights that could guide further analysis or model development.
 
 **Objective :** 
 
-The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset containing population data from 1970 to 2022 for countries around the world. The aim is to uncover insights into population trends, distributions, correlations, and outliers through visualizations.
+**1. Data Understanding :**
+
+Load and inspect the dataset to understand its structure and basic statistics.
+Check for any missing values, anomalies, or inconsistencies.
+
+**2. Univariate Analysis :**
+
+Analyze the distribution and characteristics of individual features.
+Identify potential outliers and understand the central tendency of each feature.
+
+**3. Bivariate Analysis :**
+
+Investigate relationships between features and survival status.
+Explore how survival status varies across different age groups, years, and node counts.
+
+**4. Multivariate Analysis :**
+
+Analyze the interactions between multiple features.
+Use correlation analysis to identify any potential multicollinearity issues.
+
+**5. Survival Status Analysis :**
+
+Delve into the distribution of survival status across different subsets of the data.
+Use visualizations to compare survival outcomes based on different features.
+
+**6. Insights and Conclusions :**
+
+Summarize key findings and insights derived from the analysis.
+Highlight significant factors that may impact survival after breast cancer surgery.
+Provide recommendations for further analysis or modeling efforts.
 
 **Key Activities :**
 
@@ -26,12 +55,14 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on a
 
 • Data Visualization: Creating visualizations to understand data distributions, trends, and relationships.
 
-**Technologies Used :** 
+**Tools and Technologies Used :**
 
-• Python : The Primary programming language for data analysis. 
+• Programming Language: Python
 
-• Pandas : Used for data manipulation and analysis. 
+• Libraries: Pandas, Matplotlib, Seaborn, NumPy
 
-• Matplotlib : Employed for crating static, animated and interactive visualizations. 
+• Environment: Jupyter Notebook
 
-• Seaborn : Utilised for making statistical graphics that are informed and attractive.
+**Conclusion :**
+
+The EDA conducted on Haberman's Survival Dataset helps uncover patterns and relationships between the features and survival status of breast cancer patients. This analysis provides a foundational understanding of the dataset, setting the stage for further predictive modeling or more in-depth statistical analysis.
